@@ -6,10 +6,7 @@
 
 ---
 
-| Home Screen | Main Dashboard | Plant Identification | GPS Navigation |
-|---|---|---|---|
 | <img src="home-screen.jpeg" width="180"/> | <img src="main-dashboard.jpeg" width="180"/> | <img src="plant-identification.jpeg" width="180"/> | <img src="gps-navigation.jpeg" width="180"/> |
-| Your offline survival guide | Scan plants or use GPS | Identifies edible plants | Offline map navigation |
 
 ---
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square)
