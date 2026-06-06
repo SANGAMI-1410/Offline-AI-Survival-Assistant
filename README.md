@@ -6,11 +6,9 @@
 
 ---
 
-## 📱 App Screenshots
-
 | Home Screen | Main Dashboard | Plant Identification | GPS Navigation |
 |---|---|---|---|
-| ![Home](home-screen.jpeg) | ![Dashboard](main-dashboard.jpeg) | ![Plant](plant-identification.jpeg) | ![GPS](gps-navigation.jpeg) |
+| <img src="home-screen.png" width="180"/> | <img src="main-dashboard.png" width="180"/> | <img src="plant-identification.png" width="180"/> | <img src="gps-navigation.png" width="180"/> |
 | Your offline survival guide | Scan plants or use GPS | Identifies edible plants | Offline map navigation |
 
 ---
