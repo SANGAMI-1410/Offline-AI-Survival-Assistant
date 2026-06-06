@@ -148,7 +148,7 @@ Map rendered on screen with live location dot
 
 ## 📊 Dataset
 
-The dataset used for training is organized into 3 categories:
+Manually collected and curated 2,000+ images across 10 classes, organized into 3 broad categories:
 
 ```
 dataset/
@@ -157,7 +157,7 @@ dataset/
 └── poisonous/     → Images of poisonous plants
 ```
 
-- Images collected from online sources
+- Manually collected and curated 2,000 images across 10 classes of plants and fruits
 - Dataset cleaned to remove duplicates and irrelevant images
 - Labeled folders used directly for TensorFlow model training
 
@@ -201,21 +201,10 @@ flutter build apk
 
 ---
 
-## 🎓 Project Info
-
-| Detail | Info |
-|---|---|
-| Project Type | Individual Capstone Project |
-| Semester | Winter Semester 2025–26 |
-| Batch | 21MIS |
-| Domain | AI + Mobile Development |
-| Platform | Android |
-
----
 
 ## 📄 License
 
-This project is for academic purposes under the Winter Semester 2025–26 Capstone Program.
+This project was built as an individual capstone project at VIT and is open for reference and learning purposes.
 
 ---
 
