@@ -208,7 +208,7 @@ flutter build apk
 
 | Name | Role |
 |---|---|
-| Sangami | Developer — Individual Capstone Project |
+| Sangami Kuppusamy | Developer — Individual Capstone Project |
 
 ---
 
