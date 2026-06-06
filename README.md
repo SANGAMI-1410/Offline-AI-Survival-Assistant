@@ -10,7 +10,7 @@
 
 | Home Screen | Main Dashboard | Plant Identification | GPS Navigation |
 |---|---|---|---|
-| <img src="home-screen.jpeg" width="180"/> | <img src="main-dashboard.jpeg" width="180"/> | <img src="plant-identification.jpeg" width="180"/> | <img src="gps-navigation.jpeg" width="180"/> |
+| <img src="home-screen.jpeg" width="180" height="280"/> | <img src="main-dashboard.jpeg" width="180" height="280"/> | <img src="plant-identification.jpeg" width="180" height="280"/> | <img src="gps-navigation.jpeg" width="180" height="280"/> |
 | Your offline survival guide | Scan plants or use GPS | Identifies edible plants | Offline map navigation |
 
 ---
