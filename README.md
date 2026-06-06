@@ -8,27 +8,10 @@
 
 ## 📱 App Screenshots
 
-### Home Screen
-![Home Screen](home-screen.jpeg)
-*Your offline survival guide — works 100% offline*
-
----
-
-### Main Dashboard
-![Main Dashboard](main-dashboard.jpeg)
-*Scan plants or navigate with offline GPS — no internet needed*
-
----
-
-### Plant Identification Result
-![Plant Identification](plant-identification.jpeg)
-*Identifies plant as edible with preparation and nutritional details*
-
----
-
-### Offline GPS Navigation
-![GPS Navigation](gps-navigation.jpeg)
-*Real-time location tracking using OpenStreetMap tiles — zero internet required*
+| Home Screen | Main Dashboard | Plant Identification | GPS Navigation |
+|---|---|---|---|
+| ![Home](home-screen.jpeg) | ![Dashboard](main-dashboard.jpeg) | ![Plant](plant-identification.jpeg) | ![GPS](gps-navigation.jpeg) |
+| Your offline survival guide | Scan plants or use GPS | Identifies edible plants | Offline map navigation |
 
 ---
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square)
