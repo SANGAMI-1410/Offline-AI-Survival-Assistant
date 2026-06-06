@@ -2,7 +2,35 @@
 
 > A mobile application that identifies plants and provides GPS navigation — **100% offline**, built for forest and trekking environments where internet is unavailable.
 
-🔗 [Demo Video](https://drive.google.com/file/d/1z052xzf3amppKsCInQMN6Gb18s3RRJHJ/view?usp=drive_link)
+🔗 [Demo Video](https://drive.google.com/file/d/1z052xzf3amppKsCInQMN6Gb18s3RRJHJ/view?usp=drive_link) 
+
+---
+
+## 📱 App Screenshots
+
+### Home Screen
+![Home Screen](home-screen.jpeg)
+*Your offline survival guide — works 100% offline*
+
+---
+
+### Main Dashboard
+![Main Dashboard](main-dashboard.jpeg)
+*Scan plants or navigate with offline GPS — no internet needed*
+
+---
+
+### Plant Identification Result
+![Plant Identification](plant-identification.jpeg)
+*Identifies plant as edible with preparation and nutritional details*
+
+---
+
+### Offline GPS Navigation
+![GPS Navigation](gps-navigation.jpeg)
+*Real-time location tracking using OpenStreetMap tiles — zero internet required*
+
+---
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square)
 ![AI Model](https://img.shields.io/badge/AI-EfficientNet%20%2B%20TFLite-orange?style=flat-square)
